@@ -34,6 +34,5 @@ https://hub.spigotmc.org/stash/projects/SPIGOT/repos/bukkit/browse
     <groupId>cc.bukkit</groupId>
     <artifactId>BukkitConfiguration</artifactId>
     <version>1.16.1-R0.1-SNAPSHOT</version>
-    <scope>provided</scope>
 </dependency>
 ```
