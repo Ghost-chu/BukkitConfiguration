@@ -27,7 +27,7 @@ https://hub.spigotmc.org/stash/projects/SPIGOT/repos/bukkit/browse
 ```XAML
 <repository>
     <id>quickshop-repo</id>
-    <url>https://repo.codemc.io/</url>
+    <url>https://repo.codemc.io/repository/maven-snapshots/</url>
 </repository>
 
 <dependency>
